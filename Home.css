@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.head{
+    
+    width:100%;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    font-size: 20px;
+    /* font-family: https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap; */
+}
+.main1{
+    width: 20%;
+    align-items: center;
+    text-align: center;
+}
+.main2{
+    width: 50%;
+    align-items: center;
+   
+    display: flex;
+    margin-left: 15%;
+
+}
+.imgl{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 4%;
+}
+.imgl img{
+    width: 60%;
+}
+.nav-item{
+    
+    margin-left: 3%;
+}
+.main3{
+    width: 30%;
+    align-items: center;
+    
+}
+.book{
+    margin-left: 20%;
+    margin-top: 3%;
+    color: aquamarine;
+    width: 140px;
+    height: 50px;
+    border: 2px solid cyan;
+    border-radius: 30px;
+    text-align: center;
+    /* align-items: center; */
+}
+.nav-item:hover{
+    color: aqua;
+}
+.book:hover{
+    background-color: white;
+    color: black;
+}
+.center{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.first{
+    
+    height: 8%;
+    border-radius: 10px;
+    background-color: lightpink;
+    font-size: 20px;
+}
+h4{
+    font-size: 25px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    color: blue;
+    margin-bottom: 0;
+}
+.ab{
+    margin-top: 0;
+    padding-left: 1%;
+}
+.image1{
+    display: flex;
+    /* grid-row: inherit; */
+}
+.image2{
+    display: flex;
+}
+.im{
+    border: 4px solid rgb(223, 61, 61);
+    border-radius: 10px;
+    padding: 2%;
+    width: 33%;
+    height: 20%;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.center1{
+    width: 100%;
+    height: 27vh;
+    background-color: gray;
+    text-align: center;
+    /* align-items: center; */
+}
+.cenr{
+    margin-top: 20px;
+}
+.a1{
+    /* font-size: 10px; */
+    /* margin-top: 20px; */
+    color: aqua;
+    font-size: 20px;
+}
+.a2{
+    color: white;
+    font-size: 10px;
+}
+.ah{
+    font-size: 30px;
+    color:white;
+}
+.book1{
+    margin-left: 45vw;
+    margin-top: 3vh;
+    width: 8%;
+    height: 10%;
+    color: aqua;
+    border: 2px solid aqua;
+    border-radius: 20px;
+    text-align: center;
+}
